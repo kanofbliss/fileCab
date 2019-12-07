@@ -9,9 +9,9 @@ gem 'puma', '~> 4.1'
 gem 'sass-rails', '>= 6'
 gem 'webpacker', '~> 4.0'
 gem 'turbolinks', '~> 5'
-gem 'devise', '~> 4.7', '>= 4.7.1'
-gem 'simple_form', '~> 5.0', '>= 5.0.1'
-gem 'haml', '~> 5.1', '>= 5.1.2'
+gem 'devise'
+gem 'simple_form'
+gem 'haml'
 # Build JSON APIs with ease. Read more: https://github.com/rails/jbuilder
 # Use Redis adapter to run Action Cable in production
 # gem 'redis', '~> 4.0'
